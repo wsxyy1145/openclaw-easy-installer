@@ -1,5 +1,4 @@
 # 🦞 OpenClaw Windows Installer
-[中文](https://github.com/wsxyy1145/openclaw-easy-installer/blob/main/README_%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 
 <div align="center">
 
@@ -239,6 +238,46 @@ python test_system.py
 - **Bug Report**: [Create an issue](https://github.com/wsxyy1145/openclaw-easy-installer/issues/new?template=bug_report.md)
 - **Feature Request**: [Request a feature](https://github.com/wsxyy1145/openclaw-easy-installer/issues/new?template=feature_request.md)
 - **Discussions**: [Join discussions](https://github.com/wsxyy1145/openclaw-easy-installer/discussions)
+
+---
+
+## 🌐 Website Deployment
+
+### Cloudflare Pages (Recommended)
+
+**Live Site**: [https://openclaw-easy-installer.pages.dev](https://openclaw-easy-installer.pages.dev)
+
+Deploy using one of these methods:
+
+#### Method 1: One-Click Deploy Script
+```bash
+deploy_cloudflare.bat
+```
+
+#### Method 2: Manual Deploy via Dashboard
+1. Visit [Cloudflare Dashboard](https://dash.cloudflare.com/)
+2. Go to **Workers & Pages** > **Pages**
+3. Click **Create a project** > **Connect to Git**
+4. Select repository: `wsxyy1145/openclaw-easy-installer`
+5. Configure:
+   - Build command: (leave empty)
+   - Build output directory: `public`
+6. Click **Save and Deploy**
+
+#### Method 3: Using Wrangler CLI
+```bash
+npm install -g wrangler
+wrangler login
+wrangler pages deploy public --project-name=openclaw-easy-installer
+```
+
+For detailed deployment guide, see [CLOUDFLARE_DEPLOYMENT.md](CLOUDFLARE_DEPLOYMENT.md)
+
+### Vercel (Alternative)
+
+**Live Site**: [https://openclaw-easy-installer.vercel.app](https://openclaw-easy-installer.vercel.app)
+
+See [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md) for instructions.
 
 ---
 

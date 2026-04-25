@@ -39,3 +39,7 @@ Desktop.ini
 
 # Installation artifacts
 openclaw-offline.tgz
+
+# Cloudflare
+.wrangler/
+.dev.vars
