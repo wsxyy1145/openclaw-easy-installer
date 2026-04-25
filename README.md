@@ -1,4 +1,4 @@
-# 🦞 OpenClaw Windows Installer
+# 🦞 OpenClaw Easy Installer
 
 <div align="center">
 
@@ -10,7 +10,7 @@
 
 **Simple, Stable, One-Click Installation for OpenClaw on Windows**
 
-[Quick Start](#-quick-start) • [Documentation](#-documentation) • [Website](https://openclaw.github.io/openclaw-windows-installer) • [Report Bug](https://github.com/openclaw/openclaw-windows-installer/issues) • [Request Feature](https://github.com/openclaw/openclaw-windows-installer/issues)
+[Quick Start](#-quick-start) �?[Documentation](#-documentation) �?[Website](https://openclaw-easy-installer.vercel.app) �?[Report Bug](https://github.com/wsxyy1145/openclaw-easy-installer/issues) �?[Request Feature](https://github.com/wsxyy1145/openclaw-easy-installer/issues)
 
 </div>
 
@@ -32,18 +32,18 @@
 
 ## 📋 About
 
-OpenClaw Windows Installer is a powerful, user-friendly automated deployment solution designed for quick installation and configuration of OpenClaw on Windows systems.
+OpenClaw Easy Installer is a powerful, user-friendly automated deployment solution designed for quick installation and configuration of OpenClaw on Windows systems.
 
 **Why Choose This Installer?**
 - 🎨 Modern, beautiful graphical interface
-- ⚡ Fully automated with intelligent error recovery
+- �?Fully automated with intelligent error recovery
 - 🌏 Multiple installation modes for different scenarios
 - 🔍 Comprehensive system checks before installation
 - 📊 Real-time progress tracking and detailed logging
 
 ---
 
-## ✨ Features
+## �?Features
 
 ### User Experience
 - 🎨 **Modern Dark UI** - Professional dark-themed interface
@@ -53,9 +53,9 @@ OpenClaw Windows Installer is a powerful, user-friendly automated deployment sol
 
 ### Technical Excellence
 - 🔄 **Smart Retry** - Automatic retry mechanism (2-3 attempts)
-- ✅ **Post-installation Verification** - Automatic validation
+- �?**Post-installation Verification** - Automatic validation
 - 💾 **Config Backup** - Safe backup before updates
-- 🛡️ **Secure Operations** - Permission checks and safe file handling
+- 🛡�?**Secure Operations** - Permission checks and safe file handling
 - ⏱️ **Timeout Protection** - Prevents infinite waiting
 - 🧹 **Auto Cleanup** - Removes temporary files automatically
 
@@ -106,11 +106,11 @@ Access the control panel at: http://localhost:18789
 
 ### 1. Standard Mode (npm)
 **Command**: `npm install -g openclaw@latest`
-- ✅ Official npm registry
+- �?Official npm registry
 - 🌍 Best for international users
 - ⏱️ Speed: Normal
 
-### 2. China Mirror Mode ⭐ RECOMMENDED
+### 2. China Mirror Mode �?RECOMMENDED
 **Command**: PowerShell script with Chinese CDN
 - 🚀 Faster downloads in China
 - 🇨 Optimized for mainland China users
@@ -135,15 +135,15 @@ Access the control panel at: http://localhost:18789
 ### Minimum
 - **OS**: Windows 10/11 (64-bit)
 - **Python**: 3.7 or higher
-- **Disk Space**: ≥ 2 GB
-- **Memory**: ≥ 1 GB RAM
+- **Disk Space**: �?2 GB
+- **Memory**: �?1 GB RAM
 - **Permissions**: Administrator
 
 ### Recommended
 - **OS**: Windows 11 (latest)
 - **Python**: 3.10 or higher
-- **Disk Space**: ≥ 5 GB
-- **Memory**: ≥ 4 GB RAM
+- **Disk Space**: �?5 GB
+- **Memory**: �?4 GB RAM
 - **Network**: High-speed internet
 
 ---
@@ -169,7 +169,7 @@ Access the control panel at: http://localhost:18789
 ## 📦 File Structure
 
 ```
-openclaw-windows-installer/
+openclaw-easy-installer/
 ├── Install-OpenClaw.bat          🚀 Main launcher script
 ├── install.py                     ⚙️ Core installation engine
 ├── install_gui.py                 🎨 Graphical user interface
@@ -180,23 +180,23 @@ openclaw-windows-installer/
 ├── LICENSE                        📄 MIT License
 ├── CHANGELOG.md                   📋 Version history
 ├── CONTRIBUTING.md                🤝 Contribution guide
-├── SECURITY.md                    🛡️ Security policy
+├── SECURITY.md                    🛡�?Security policy
 ├── CODE_OF_CONDUCT.md             📜 Community guidelines
 ├── README.md                      📖 This file
 ├── README_使用指南.md             📘 User guide (Chinese)
-├── QUICKSTART.md                  ⚡ Quick start guide
+├── QUICKSTART.md                  �?Quick start guide
 ├── INSTALLATION_IMPROVEMENTS.md   📊 Improvements doc
 ├── IMPROVEMENTS_SUMMARY.md        📝 Complete summary
 ├── FILES.md                       📋 File descriptions
-├── VERSION.txt                    🏷️ Version info
+├── VERSION.txt                    🏷�?Version info
 ├── .github/                       🔧 GitHub templates
-│   ├── ISSUE_TEMPLATE/
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   └── PULL_REQUEST_TEMPLATE.md
+�?  ├── ISSUE_TEMPLATE/
+�?  �?  ├── bug_report.md
+�?  �?  └── feature_request.md
+�?  └── PULL_REQUEST_TEMPLATE.md
 └── docs/                          🌐 Website files
     ├── index.html                 🏠 Main website
-    └── badges.html                🏷️ Badge showcase
+    └── badges.html                🏷�?Badge showcase
 ```
 
 ---
@@ -217,8 +217,8 @@ We welcome contributions! Please see our [Contributing Guide](CONTRIBUTING.md) f
 
 ```bash
 # Clone the repository
-git clone https://github.com/openclaw/openclaw-windows-installer.git
-cd openclaw-windows-installer
+git clone https://github.com/wsxyy1145/openclaw-easy-installer.git
+cd openclaw-easy-installer
 
 # Create virtual environment
 python -m venv venv
@@ -235,9 +235,9 @@ python test_system.py
 
 ## 🐛 Bug Reports & Feature Requests
 
-- **Bug Report**: [Create an issue](https://github.com/openclaw/openclaw-windows-installer/issues/new?template=bug_report.md)
-- **Feature Request**: [Request a feature](https://github.com/openclaw/openclaw-windows-installer/issues/new?template=feature_request.md)
-- **Discussions**: [Join discussions](https://github.com/openclaw/openclaw-windows-installer/discussions)
+- **Bug Report**: [Create an issue](https://github.com/wsxyy1145/openclaw-easy-installer/issues/new?template=bug_report.md)
+- **Feature Request**: [Request a feature](https://github.com/wsxyy1145/openclaw-easy-installer/issues/new?template=feature_request.md)
+- **Discussions**: [Join discussions](https://github.com/wsxyy1145/openclaw-easy-installer/discussions)
 
 ---
 
@@ -258,9 +258,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- **GitHub**: [openclaw/openclaw-windows-installer](https://github.com/openclaw/openclaw-windows-installer)
-- **Website**: [openclaw.github.io/openclaw-windows-installer](https://openclaw.github.io/openclaw-windows-installer)
-- **Issues**: [Report bugs](https://github.com/openclaw/openclaw-windows-installer/issues)
+- **GitHub**: [openclaw/openclaw-easy-installer](https://github.com/wsxyy1145/openclaw-easy-installer)
+- **Website**: [openclaw.github.io/openclaw-easy-installer](https://openclaw.github.io/openclaw-easy-installer)
+- **Issues**: [Report bugs](https://github.com/wsxyy1145/openclaw-easy-installer/issues)
 - **Email**: support@openclaw.dev
 
 ---
@@ -269,6 +269,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Made with ❤️ by OpenClaw Team**
 
-[⭐ Star this repo](https://github.com/openclaw/openclaw-windows-installer) • [🐛 Report Bug](https://github.com/openclaw/openclaw-windows-installer/issues) • [💡 Request Feature](https://github.com/openclaw/openclaw-windows-installer/issues)
+[�?Star this repo](https://github.com/wsxyy1145/openclaw-easy-installer) �?[🐛 Report Bug](https://github.com/wsxyy1145/openclaw-easy-installer/issues) �?[💡 Request Feature](https://github.com/wsxyy1145/openclaw-easy-installer/issues)
 
 </div>

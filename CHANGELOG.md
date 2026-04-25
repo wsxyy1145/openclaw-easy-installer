@@ -56,7 +56,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Error message clarity and context
 
 ### Removed
-- Special Unicode characters (âœ—, âœ“, âš ) replaced with ASCII alternatives
+- Special Unicode characters (âœ? âœ? âš? replaced with ASCII alternatives
 - Deprecated installation methods
 
 ### Security
@@ -97,6 +97,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Fixed**: Bug fixes
 - **Security**: Security improvements
 
-[Unreleased]: https://github.com/openclaw/openclaw-windows-installer/compare/v2.0.0...HEAD
-[2.0.0]: https://github.com/openclaw/openclaw-windows-installer/releases/tag/v2.0.0
-[1.0.0]: https://github.com/openclaw/openclaw-windows-installer/releases/tag/v1.0.0
+[Unreleased]: https://github.com/wsxyy1145/openclaw-easy-installer/compare/v2.0.0...HEAD
+[2.0.0]: https://github.com/wsxyy1145/openclaw-easy-installer/releases/tag/v2.0.0
+[1.0.0]: https://github.com/wsxyy1145/openclaw-easy-installer/releases/tag/v1.0.0

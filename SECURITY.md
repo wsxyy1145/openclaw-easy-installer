@@ -9,7 +9,7 @@
 
 ## Reporting a Vulnerability
 
-We take the security of OpenClaw Windows Installer seriously. If you discover a security vulnerability, please follow these steps:
+We take the security of OpenClaw Easy Installer seriously. If you discover a security vulnerability, please follow these steps:
 
 ### How to Report
 

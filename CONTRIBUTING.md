@@ -1,6 +1,6 @@
-# Contributing to OpenClaw Windows Installer
+# Contributing to OpenClaw Easy Installer
 
-Thank you for your interest in contributing to OpenClaw Windows Installer! This document provides guidelines and instructions for contributing.
+Thank you for your interest in contributing to OpenClaw Easy Installer! This document provides guidelines and instructions for contributing.
 
 ## Table of Contents
 
@@ -31,12 +31,12 @@ This project and everyone participating in it is governed by our [Code of Conduc
 1. Fork the repository on GitHub
 2. Clone your fork locally:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/openclaw-windows-installer.git
-   cd openclaw-windows-installer
+   git clone https://github.com/YOUR_USERNAME/openclaw-easy-installer.git
+   cd openclaw-easy-installer
    ```
 3. Add the upstream remote:
    ```bash
-   git remote add upstream https://github.com/openclaw/openclaw-windows-installer.git
+   git remote add upstream https://github.com/wsxyy1145/openclaw-easy-installer.git
    ```
 
 ## How to Contribute
@@ -83,7 +83,7 @@ pip install pytest black flake8
 ### Project Structure
 
 ```
-openclaw-windows-installer/
+openclaw-easy-installer/
 ├── Install-OpenClaw.bat      # Main launcher
 ├── install.py                # Core installation engine
 ├── install_gui.py            # GUI interface
@@ -242,7 +242,7 @@ Releases are managed by maintainers:
 
 Feel free to:
 - Open an issue for questions
-- Join our [Discussions](https://github.com/openclaw/openclaw-windows-installer/discussions)
+- Join our [Discussions](https://github.com/wsxyy1145/openclaw-easy-installer/discussions)
 - Contact maintainers
 
 ## Recognition
