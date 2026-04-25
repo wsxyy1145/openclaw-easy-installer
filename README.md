@@ -10,7 +10,7 @@
 
 **Simple, Stable, One-Click Installation for OpenClaw on Windows**
 
-[Quick Start](#-quick-start) • [Documentation](#-documentation) • [Website](https://openclaw.github.io/openclaw-easy-installer) • [Report Bug](https://github.com/wsxyy1145/openclaw-easy-installer/issues) • [Request Feature](https://github.com/wsxyy1145/openclaw-easy-installer/issues)
+[Quick Start](#-quick-start) • [Documentation](#-documentation) • [Website](https://openclaw.github.io/openclaw-easy-installer) • [Report Bug](https://github.com/wsxyy1145/openclaw-easy-installer/issues) • [Request Feature](https://github.com/wsxyy1145/openclaw-easy-installer/issues) • [中文]()
 
 </div>
 
