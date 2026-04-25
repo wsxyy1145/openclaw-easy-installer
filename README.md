@@ -1,4 +1,5 @@
 # 🦞 OpenClaw Windows Installer
+[中文](https://github.com/wsxyy1145/openclaw-easy-installer/blob/main/README_%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 
 <div align="center">
 
