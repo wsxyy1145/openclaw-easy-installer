@@ -56,7 +56,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Error message clarity and context
 
 ### Removed
-- Special Unicode characters (âœ? âœ? âš? replaced with ASCII alternatives
+- Special Unicode characters (âœ… âœ… âš  replaced with ASCII alternatives
 - Deprecated installation methods
 
 ### Security
