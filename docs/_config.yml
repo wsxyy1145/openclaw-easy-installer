@@ -1,0 +1,36 @@
+# GitHub Pages Configuration
+# This file enables GitHub Pages for the repository
+
+# Theme settings
+theme: jekyll-theme-cayman
+
+# Site settings
+title: OpenClaw Windows Installer
+description: Simple, Stable, One-Click Installation for OpenClaw on Windows
+url: https://openclaw.github.io
+baseurl: /openclaw-windows-installer
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude files from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - Install-OpenClaw.bat
+  - install.py
+  - install_gui.py
+  - test_system.py
+  - install_dependencies.bat
+  - requirements.txt
+  - __pycache__
+  - .gitignore
+  - .gitattributes
