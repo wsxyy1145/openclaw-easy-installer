@@ -245,7 +245,7 @@ python test_system.py
 
 ### Cloudflare Pages (Recommended)
 
-**Live Site**: [https://openclaw-easy-installer.pages.dev](https://openclaw-easy-installer.pages.dev)
+**Live Site**: [https://openclaw-easy-installer-wz.pages.dev/](https://openclaw-easy-installer-wz.pages.dev/)
 
 Deploy using one of these methods:
 
@@ -273,14 +273,6 @@ wrangler pages deploy public --project-name=openclaw-easy-installer
 
 For detailed deployment guide, see [CLOUDFLARE_DEPLOYMENT.md](CLOUDFLARE_DEPLOYMENT.md)
 
-### Vercel (Alternative)
-
-**Live Site**: [https://openclaw-easy-installer.vercel.app](https://openclaw-easy-installer.vercel.app)
-
-See [VERCEL_DEPLOYMENT.md](VERCEL_DEPLOYMENT.md) for instructions.
-
----
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -299,7 +291,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Contact & Support
 
 - **GitHub**: [openclaw/openclaw-easy-installer](https://github.com/wsxyy1145/openclaw-easy-installer)
-- **Website**: [openclaw.github.io/openclaw-easy-installer](https://openclaw.github.io/openclaw-easy-installer)
+- **Website**: [https://openclaw-easy-installer-wz.pages.dev/](https://openclaw-easy-installer-wz.pages.dev/)
 - **Issues**: [Report bugs](https://github.com/wsxyy1145/openclaw-easy-installer/issues)
 - **Email**: support@openclaw.dev
 
